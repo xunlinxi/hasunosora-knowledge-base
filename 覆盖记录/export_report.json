@@ -1,0 +1,23 @@
+{
+  "sources_exported": 1377,
+  "body_characters": 11815913,
+  "chunks": 21732,
+  "fact_records": 110265,
+  "upload_files": 52,
+  "source_units": 138294,
+  "dispositions": {
+    "heading_preserved_as_context": 24170,
+    "calendar_or_mechanical_fact": 7626,
+    "summarized_with_page_context_and_topic_references": 16288,
+    "structured_fact_records": 10691,
+    "not_reproduced_comments_or_protected_content": 2203,
+    "open_license_paragraph": 61133,
+    "redirect_mapped_to_existing_content": 16012,
+    "editorial_instructions_excluded": 171
+  },
+  "narrative_processing": {
+    "curated_page_summary": 257,
+    "facts_and_topic_overview": 16031
+  },
+  "full_verbatim_mirror": false
+}

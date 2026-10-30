@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "content_chunks": 21732,
+  "text_sha256": "cdb479334f98be00acd332ea0ce67e5c57c10602a004ea16123325f4345fa4c0",
+  "all_chunk_text_unchanged": true,
+  "source_documents_unchanged": 1377,
+  "upload_files": 52,
+  "tiers": {
+    "01_核心必读": {
+      "chunks": 270,
+      "source_documents": 33
+    },
+    "02_直接相关_作品演出与剧情": {
+      "chunks": 1975,
+      "source_documents": 268
+    },
+    "03_专项资料_游戏与历史数据": {
+      "chunks": 12734,
+      "source_documents": 881
+    },
+    "04_延伸阅读_声优与制作背景": {
+      "chunks": 4283,
+      "source_documents": 121
+    },
+    "05_外围背景_其他作品与系列": {
+      "chunks": 2470,
+      "source_documents": 74
+    }
+  }
+}

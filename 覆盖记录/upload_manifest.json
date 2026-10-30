@@ -1,0 +1,470 @@
+[
+  {
+    "path": "上传用Markdown/01_核心必读/01_企划与沿革_卷01.md",
+    "category": "project",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 44734,
+    "sha256": "4269a7aa51498cedb84b52de9fff52fbce641d9abd1a58d9a967c1ea1e8152ca",
+    "chunks": 31
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/02_角色与学院_卷01.md",
+    "category": "character",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 97071,
+    "sha256": "4fcac57970126b9bd252bb068bcacbade64c3b8c1fbeee04f856df00202a2a64",
+    "chunks": 84
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/03_组合与成员_卷01.md",
+    "category": "unit",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 61392,
+    "sha256": "1ed185e7f2241398cab7e9a6085d3a19acca48da78df05ab3f3906fe31e1627d",
+    "chunks": 31
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/04_声优_卷01.md",
+    "category": "cast",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 758,
+    "sha256": "8221f6cf432344df011ec963243da0d2dc4910b492403453af39b6a7672a01a3",
+    "chunks": 1
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/07_游戏与系统_卷01.md",
+    "category": "game",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 2063,
+    "sha256": "7aa4859a000e8a4788ed50809ac6e92f4379c828ab1b56b3ce4baba25b798549",
+    "chunks": 3
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/08_剧情与配信_卷01.md",
+    "category": "story",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 70310,
+    "sha256": "c71a6fd3c23c54eb16959ade6fc023f58a187623248c4ef0350231a0d6e6e3f7",
+    "chunks": 27
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/09_动画漫画小说_卷01.md",
+    "category": "media",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 135724,
+    "sha256": "176e477cfd3055943c88a7dd1c5a0eb16f81088cbc96e2e5e210e0e79aeee7e6",
+    "chunks": 92
+  },
+  {
+    "path": "上传用Markdown/01_核心必读/10_制作合作与资料补充_卷01.md",
+    "category": "other",
+    "priority_tier": 1,
+    "priority_label": "01_核心必读",
+    "bytes": 797,
+    "sha256": "3ba5f7bf6c9dcc4e39397485a395a967b545e81f1f6fdf68b13baf68947eb90e",
+    "chunks": 1
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/02_角色与学院_卷01.md",
+    "category": "character",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 62155,
+    "sha256": "178e3f9c0ad1bf53feeeccb8aa75f16e84c0ba430a197a991d047927a2165a33",
+    "chunks": 28
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/04_声优_卷01.md",
+    "category": "cast",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 14556,
+    "sha256": "6d43ca9238379291b60178e2923a60dba0cd5227d6540eab3a059b5588a9a6a1",
+    "chunks": 14
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/05_音乐与唱片_卷01.md",
+    "category": "music",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 910956,
+    "sha256": "2aa331676c3960be2aea75bc29c38349425d8260512795c886b72a0c8234a20c",
+    "chunks": 1716
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/06_演唱会与活动_卷01.md",
+    "category": "live",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 48868,
+    "sha256": "9e1a7aca78c0fc3f9e7dd72a83d965391d5ff915feb155b001592e970b747a13",
+    "chunks": 40
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/08_剧情与配信_卷01.md",
+    "category": "story",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 167788,
+    "sha256": "285a947a89c12c7a730c5df91b586f71c8a4c48b1e872a4024fc7450220b0329",
+    "chunks": 117
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/09_动画漫画小说_卷01.md",
+    "category": "media",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 70649,
+    "sha256": "a34c0ba6c08cdb5695cedd06084897ce60c27673378cc533ad126f2e3522351c",
+    "chunks": 38
+  },
+  {
+    "path": "上传用Markdown/02_直接相关_作品演出与剧情/10_制作合作与资料补充_卷01.md",
+    "category": "other",
+    "priority_tier": 2,
+    "priority_label": "02_直接相关_作品演出与剧情",
+    "bytes": 63370,
+    "sha256": "7074b86489a952d334cb3d61f11a839d70a920ba8590740315ffb23c51664f3e",
+    "chunks": 22
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/01_企划与沿革_卷01.md",
+    "category": "project",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 223127,
+    "sha256": "92252aae9e80f70c33146ec072842b8906656a676e5b5749bdcfc06f3de3c335",
+    "chunks": 360
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/02_角色与学院_卷01.md",
+    "category": "character",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 177738,
+    "sha256": "b4a97e5c4d45b61a57674aa386ae20e15215d45756efcda47b02221e2cbd418b",
+    "chunks": 51
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/05_音乐与唱片_卷01.md",
+    "category": "music",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 118674,
+    "sha256": "77f3285907389879a03d48076d7a7201a214d20a7c22241cd94968ec866ac47f",
+    "chunks": 29
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷01.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1262377,
+    "sha256": "52fb304a88e3ee93748c6b3fbbc170b9cbbd1551112c298ca00357e973111de5",
+    "chunks": 548
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷02.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1272867,
+    "sha256": "51d91ce2a2870d287320dd10e842a79ed950ac134c46cd1022d87db4b26379dd",
+    "chunks": 711
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷03.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1276048,
+    "sha256": "0fbc634969c04c5e96c98e94dc0b87ad99e07e6b5d172b802693987d96550ec9",
+    "chunks": 737
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷04.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267757,
+    "sha256": "0232560bd1eedf915ce0bd403fa353ffb902467b0a671781491513675e6031ce",
+    "chunks": 764
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷05.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1261408,
+    "sha256": "b5fe73cedb12e62650510b24deda52e1e37dc26f30aebe740d3ebabd7895d2c4",
+    "chunks": 565
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷06.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267729,
+    "sha256": "975260d05ad7bccbd41388ff7315037be78170992cd1f163435e565f6846e628",
+    "chunks": 954
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷07.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267021,
+    "sha256": "a1cbbefc1b4ca6aed8885c01f0a6cb500f5b2abb906f3fc72862de88e0700c68",
+    "chunks": 957
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷08.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267980,
+    "sha256": "b2d9c83bea1c43e851bcd107ae94a4c1ed38f99065698d212adb391860877ac0",
+    "chunks": 997
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷09.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1266168,
+    "sha256": "012e2eba15e795282091538f9f98e849502ed37d54b20b21d7a2f78c1716bc94",
+    "chunks": 901
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷10.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267598,
+    "sha256": "0ce7fca5e70d03311a12340aeced8a0d4bfbb324272e91d4aafad98fb1f46aeb",
+    "chunks": 946
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷11.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1263359,
+    "sha256": "616f2f124db6c7def6260349298ad28bb638746b4620817c13eca4e95a2c33e5",
+    "chunks": 841
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷12.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1264486,
+    "sha256": "978180658a637f1be94b38d233aa7b264bd026b9fb6eb8fe9ac1c3697de2d714",
+    "chunks": 836
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷13.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267190,
+    "sha256": "9f85f86541360220ea96605b524947066241b1718636595a6b27615af684885d",
+    "chunks": 947
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷14.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 1267820,
+    "sha256": "03d69cd4ab4acebf0e77af5962ce1164b06256cdca5062538d736d20b9408554",
+    "chunks": 957
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/07_游戏与系统_卷15.md",
+    "category": "game",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 800278,
+    "sha256": "d4a000bc9dbbc65e3ca481d852c9f75b8bfe11345ee4f43964983f0432c59ee1",
+    "chunks": 625
+  },
+  {
+    "path": "上传用Markdown/03_专项资料_游戏与历史数据/08_剧情与配信_卷01.md",
+    "category": "story",
+    "priority_tier": 3,
+    "priority_label": "03_专项资料_游戏与历史数据",
+    "bytes": 24885,
+    "sha256": "8f218b49d77b8d50344449316203d7590ec2bc43159e441b03e447fb883e6565",
+    "chunks": 8
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/03_组合与成员_卷01.md",
+    "category": "unit",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 711996,
+    "sha256": "66f4a177f157f2b2ff9960e3768ad73a71fa86c4da0e5453553e04cc3f5c98cd",
+    "chunks": 300
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/04_声优_卷01.md",
+    "category": "cast",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 1267233,
+    "sha256": "ed47fdbd11d4fb52bddbfc26d2f89918773b074b37ee82aa537bf89eb487a240",
+    "chunks": 598
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/04_声优_卷02.md",
+    "category": "cast",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 1268052,
+    "sha256": "c8b4f769fa34e3ba3bea4947effa2665f773891b4790ff139a967f8c42f01e19",
+    "chunks": 570
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/04_声优_卷03.md",
+    "category": "cast",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 1263513,
+    "sha256": "945f0f6a28cc4112a1ffd6cdc325c534caf7fa9281ec4f5282c7a70b63e752c8",
+    "chunks": 629
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/04_声优_卷04.md",
+    "category": "cast",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 167579,
+    "sha256": "d385b5cf6204b3824d89825a6c2799dcb009634618297315cd5df6ff9d365c63",
+    "chunks": 67
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/08_剧情与配信_卷01.md",
+    "category": "story",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 1265737,
+    "sha256": "fb34f558921fb4b67098d77df34c3f5644ee18e65ba3be1db0fb6e441542f3e2",
+    "chunks": 659
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/08_剧情与配信_卷02.md",
+    "category": "story",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 353619,
+    "sha256": "9052c1b12c9810b78247bbda1b5662c134fbff0e65870cf332339620bbcc5378",
+    "chunks": 184
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/09_动画漫画小说_卷01.md",
+    "category": "media",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 112256,
+    "sha256": "87fb7eb339495a78f77c0bc9db8f6df092b5fad20bd34d78c4a82c39e0ea1a44",
+    "chunks": 138
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/10_制作合作与资料补充_卷01.md",
+    "category": "other",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 1271427,
+    "sha256": "2f05495a159275b6211cc41de85a04ccd2b6f7bc30fbed39a61d883012b468b6",
+    "chunks": 729
+  },
+  {
+    "path": "上传用Markdown/04_延伸阅读_声优与制作背景/10_制作合作与资料补充_卷02.md",
+    "category": "other",
+    "priority_tier": 4,
+    "priority_label": "04_延伸阅读_声优与制作背景",
+    "bytes": 640315,
+    "sha256": "14b288677a2be3aa59cea2cb38dfdc9e16dcf37ea2d585f5d5f85950b6028ea5",
+    "chunks": 409
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/03_组合与成员_卷01.md",
+    "category": "unit",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 1262140,
+    "sha256": "c79664c207e93fbda5c9c611207f42230c2cc7607c8b64cbb7aa0436bf436f64",
+    "chunks": 630
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/03_组合与成员_卷02.md",
+    "category": "unit",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 961083,
+    "sha256": "e7597d0b2b12a4021ace6773fcbb100fb0d0d5416e7f95228e2e6a1da1aa928c",
+    "chunks": 532
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/04_声优_卷01.md",
+    "category": "cast",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 395095,
+    "sha256": "27b5bed9a832207506731d1992dadd0c5f6cefeebd9646720fcff922db154312",
+    "chunks": 191
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/05_音乐与唱片_卷01.md",
+    "category": "music",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 114732,
+    "sha256": "2e23223adc0ac338504b93c9509fd5de9af3a6b419728a6340b97853334a330d",
+    "chunks": 42
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/08_剧情与配信_卷01.md",
+    "category": "story",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 135713,
+    "sha256": "563eef6babdccb37604bd65b4104e418caf727e05dd165aae22622cb9982be15",
+    "chunks": 65
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/09_动画漫画小说_卷01.md",
+    "category": "media",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 1263768,
+    "sha256": "91a07f8de8831106405e61e80c73c69586470b5977068de505f20683aeaae93a",
+    "chunks": 541
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/09_动画漫画小说_卷02.md",
+    "category": "media",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 613022,
+    "sha256": "593ac60eea149936bad992d621c0e2bf7c2c84b5b733b80d5f7b54d15126a0a7",
+    "chunks": 324
+  },
+  {
+    "path": "上传用Markdown/05_外围背景_其他作品与系列/10_制作合作与资料补充_卷01.md",
+    "category": "other",
+    "priority_tier": 5,
+    "priority_label": "05_外围背景_其他作品与系列",
+    "bytes": 228505,
+    "sha256": "10b7de2d67d8b32289b7cfb5df04c33e908566933aa9722380e815bc728b958a",
+    "chunks": 145
+  }
+]

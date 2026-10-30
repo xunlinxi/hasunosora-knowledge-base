@@ -1,0 +1,179 @@
+{
+  "passed": true,
+  "checks": {
+    "目录快照逐行完整": {
+      "passed": true,
+      "detail": null
+    },
+    "目录中的1149个正文页均已读全": {
+      "passed": true,
+      "detail": null
+    },
+    "有效正文出链范围无待读取页面": {
+      "passed": true,
+      "detail": null
+    },
+    "目录正文均有正常浏览器原始响应": {
+      "passed": true,
+      "detail": null
+    },
+    "每页处理记录数量一致": {
+      "passed": true,
+      "detail": null
+    },
+    "所有切片具有完整读取来源": {
+      "passed": true,
+      "detail": null
+    },
+    "切片ID唯一": {
+      "passed": true,
+      "detail": null
+    },
+    "上传文件清单无遗漏": {
+      "passed": true,
+      "detail": null
+    },
+    "上传文件哈希一致": {
+      "passed": true,
+      "detail": null
+    },
+    "十类资料均有内容": {
+      "passed": true,
+      "detail": null
+    },
+    "未混入网站拦截页和工具引用标记": {
+      "passed": true,
+      "detail": null
+    },
+    "目录中每个正文页均有导出": {
+      "passed": true,
+      "detail": null
+    },
+    "卡牌详情含等级和技能数值": {
+      "passed": true,
+      "detail": null
+    },
+    "原页红字标记被保留": {
+      "passed": true,
+      "detail": null
+    },
+    "情绪图标已转为文字": {
+      "passed": true,
+      "detail": null
+    },
+    "姓名重定向未混入机构事实表": {
+      "passed": true,
+      "detail": null
+    },
+    "切片不含采集时间字段": {
+      "passed": true,
+      "detail": null
+    },
+    "上传文档不含采集时间标记": {
+      "passed": true,
+      "detail": null
+    },
+    "日文维基拓展清单已读全或确认不存在": {
+      "passed": true,
+      "detail": []
+    },
+    "已取得的拓展页面均有导出": {
+      "passed": true,
+      "detail": null
+    },
+    "拓展页面均保留关联依据": {
+      "passed": true,
+      "detail": null
+    },
+    "声优页面已按扩展日期刷新或确认不存在": {
+      "passed": true,
+      "detail": {
+        "targets": 31,
+        "confirmed": 31
+      }
+    },
+    "分层上传目录仅含Markdown文件": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "wikiwiki_index_scope": 1149,
+  "wikiwiki_index_complete": 1149,
+  "wikiwiki_valid_discovery_complete": 1149,
+  "broken_links_or_absent_articles": [
+    {
+      "url": "https://wikiwiki.jp/llll_wiki/[[hhttp://www.oyama-jinja.or.jp/]]",
+      "title": "有効なInterWikiNameではありません - Link！Like！ラブライブ！ Wiki*",
+      "status": 404
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/宮村蒼",
+      "title": "宮村蒼 - Wikipedia",
+      "status": 404
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/梅岡希",
+      "title": "梅岡希 - Wikipedia",
+      "status": 404
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/織部はるか",
+      "title": "織部はるか - Wikipedia",
+      "status": 404
+    },
+    {
+      "url": "https://wikiwiki.jp/llll_wiki/[[https:/x.com/hasunosora_SIC/status/1763552895990141326]]",
+      "title": "有効なInterWikiNameではありません - Link！Like！ラブライブ！ Wiki*",
+      "status": 404
+    }
+  ],
+  "sources_exported": 1377,
+  "source_units_accounted": 138294,
+  "facts": 110265,
+  "chunks": 21732,
+  "upload_files": 52,
+  "wikipedia_expansion_targets": 202,
+  "wikipedia_expansion_read": 202,
+  "wikipedia_expansion_pending": [],
+  "cast_refresh_targets": 31,
+  "cast_refresh_confirmed": 31,
+  "coverage_means": "页面目录与有效正文出链的读取覆盖；不表示逐字镜像或已逐条独立核实事实",
+  "narrative_mode": "日文维基开放许可正文；链接啦Wiki事实数据、机械规则、概述和相关题名索引，非逐段原文转载",
+  "raw_capture_cache_retained": false,
+  "upload_integrity_after_cleanup": {
+    "passed": true,
+    "files": 33,
+    "details_files": 1377
+  },
+  "verification_scope_note": "页面读取检查为交付前记录；原始采集缓存和临时工具已按要求清除，当前上传文件的完整性已重新核验。",
+  "relationship_organization": {
+    "passed": true,
+    "content_chunks": 21732,
+    "text_sha256": "cdb479334f98be00acd332ea0ce67e5c57c10602a004ea16123325f4345fa4c0",
+    "all_chunk_text_unchanged": true,
+    "source_documents_unchanged": 1377,
+    "upload_files": 52,
+    "tiers": {
+      "01_核心必读": {
+        "chunks": 270,
+        "source_documents": 33
+      },
+      "02_直接相关_作品演出与剧情": {
+        "chunks": 1975,
+        "source_documents": 268
+      },
+      "03_专项资料_游戏与历史数据": {
+        "chunks": 12734,
+        "source_documents": 881
+      },
+      "04_延伸阅读_声优与制作背景": {
+        "chunks": 4283,
+        "source_documents": 121
+      },
+      "05_外围背景_其他作品与系列": {
+        "chunks": 2470,
+        "source_documents": 74
+      }
+    }
+  }
+}
